@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
-
 ### <div align="center">I'm Michael, a full-stack web & app developer 👨‍💻 with a focus on frontend (ReactJS, Ionic) </div>  
   
 
