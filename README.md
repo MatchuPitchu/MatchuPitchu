@@ -1,7 +1,7 @@
 ### <div align="center">I'm Michael, a full-stack web & app developer 👨‍💻 with a focus on frontend (ReactJS, Ionic) who started his web developer path 🚴 in 2021.</div>  
   
 
-<div align="center">🌱 I’m currently working on my vegan ice cream app</div>  
+<div align="center">🌱 My heart project right now is my <a href="https://eis-mit-stil.netlify.app/" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a></div>  
   
 
 <br/>  
