@@ -1,4 +1,4 @@
-### <div align="center">I'm Michael, a full-stack web & app developer 👨‍💻 with a focus on frontend (ReactJS, Ionic) </div>  
+### <div align="center">I'm Michael, a full-stack web & app developer 👨‍💻 with a focus on frontend (ReactJS, Ionic) who started his web developer path 🚴 in 2021.</div>  
   
 
 <div align="center">🌱 I’m currently working on my vegan ice cream app</div>  
