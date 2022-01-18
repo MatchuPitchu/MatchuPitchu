@@ -50,7 +50,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatchuPitchu&show_icons=true&theme=city_lights&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatchuPitchu&theme=city_lights" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatchuPitchu&theme=city_lights&layout=compact" align="center" /></div>
 <br />
 
 <div align="center">
