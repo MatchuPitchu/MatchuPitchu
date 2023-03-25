@@ -40,7 +40,7 @@
 <br/>  
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=MatchuPitchu&show_icons=true&theme=city_lights&count_private=true&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatchuPitchu&theme=city_lights&layout=compact" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=MatchuPitchu&show_icons=true&theme=city_lights&count_private=true&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatchuPitchu&theme=city_lights&layout=compact&hide_border=true" /></div>
 
 <br />
 
