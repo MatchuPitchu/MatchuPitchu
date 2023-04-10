@@ -1,9 +1,9 @@
-### <div align="center">I'm Michael, a frontend web & app developer 👨‍💻 with some knowledge about the backend area who started his web developer path 🚴 in 2021. I mainly want to work with React and TypeScript.</div>  
-  
+# 👨‍💻 Michael Flohr
+I'm a frontend developer with some knowledge about the backend area who started his developer path 🚴 in 2021. I mainly work with TypeScript and the React library.
 
-<div align="center">🌱 My heart project right now is my <a href="https://eis-mit-stil.netlify.app/" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a></div>  
-  
-<br/>  
+🌱 My heart project is my <a href="https://eis-mit-stil.netlify.app/" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨
+
+    "TypeScript is wie JavaScript, nur ganz anders."
 
 ### Languages  
 <div>  
@@ -44,7 +44,7 @@
 
 <br />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=TypeScript%20ist%20wie%20JavaScript%2C%20nur%20ganz%20anders.)](https://github.com/piyushsuthar/github-readme-quotes)
+    "Mach mal Pause, natürlich mit BioBrause." (Das Känguru)
 
 ## Connect with me  
 <div>
@@ -60,8 +60,6 @@
 </div>
 
 <br />
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Mach%20mal%20Pause%2C%20nat%C3%BCrlich%20mit%20BioBrause.&author=Das%20K%C3%A4nguru)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MatchuPitchu&&style=flat-square" align="center" />
