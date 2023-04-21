@@ -40,7 +40,11 @@ I'm a frontend developer with some knowledge about the backend area who started 
 <br/>  
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=MatchuPitchu&show_icons=true&theme=city_lights&count_private=true&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatchuPitchu&theme=city_lights&layout=compact&hide_border=true" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=MatchuPitchu&show_icons=true&theme=city_lights&count_private=true&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatchuPitchu&theme=city_lights&layout=compact&hide_border=true" /></div>
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MatchuPitchu&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=467&background=1D252C&ring=527C9D&currStreakNum=4798FF&fire=4798FF&sideLabels=718CA1&currStreakLabel=718CA1)](https://git.io/streak-stats)
+
 
 <br />
 
@@ -56,7 +60,7 @@ I'm a frontend developer with some knowledge about the backend area who started 
   </a>
   <a href="https://www.youtube.com/watch?v=yX4nKrUdzc4" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>  
+  </a>
 </div>
 
 <br />
