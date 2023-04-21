@@ -1,6 +1,8 @@
 # 👨‍💻 Michael Flohr
 I'm a frontend developer with some knowledge about the backend area who started his developer path 🚴 in 2021. I mainly work with TypeScript and the React library.
 
+👉 Check out my website <a href="https://www.michaelflohr.de" target="_blank">www.michaelflohr.de</a>
+
 🌱 My heart project is my <a href="https://eis-mit-stil.netlify.app/" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨
 
     "TypeScript is wie JavaScript, nur ganz anders."
