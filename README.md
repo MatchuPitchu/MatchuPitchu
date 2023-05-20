@@ -1,5 +1,5 @@
 # 👨‍💻 Michael Flohr
-I'm a frontend developer with some knowledge about the backend area who started his developer path 🚴 in 2021. I mainly work with TypeScript and the React library.
+I'm a frontend developer with some knowledge about the backend area who started his developer path 🚴 in 2021. I mainly work with TypeScript and the React ecosystem.
 
 👉 Check out my website <a href="https://www.michaelflohr.de" target="_blank">www.michaelflohr.de</a>
 
@@ -53,17 +53,17 @@ I'm a frontend developer with some knowledge about the backend area who started 
     "Mach mal Pause, natürlich mit BioBrause." (Das Känguru)
 
 ## Connect with me  
-<div>
-  <a href="https://github.com/MatchuPitchu" target="_blank">
+
+<a href="https://github.com/MatchuPitchu" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/dr-michael-flohr-952649211/" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/dr-michael-flohr-952649211/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=yX4nKrUdzc4" target="_blank">
+</a>
+<a href="https://www.youtube.com/watch?v=yX4nKrUdzc4" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>
-</div>
+</a>
+
 
 <br />
 
