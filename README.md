@@ -5,7 +5,7 @@ I'm a frontend developer with some knowledge about the backend area who started 
 
 🌱 My heart project is my <a href="https://eis-mit-stil.netlify.app/" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨
 
-    "TypeScript is wie JavaScript, nur ganz anders."
+    "TypeScript is wie JavaScript, nur anders."
 
 ### Languages  
 <div>  
