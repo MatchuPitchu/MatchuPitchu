@@ -1,9 +1,11 @@
 # 👨‍💻 Michael Flohr
-I'm a frontend developer with some knowledge about the backend area who started his developer path 🚴 in 2021. I mainly work with TypeScript and the React ecosystem.
+I'm a frontend developer with some knowledge about the backend area who started his professional developer path 🚴 in 2021. I mainly work with TypeScript and the React ecosystem.
 
 👉 Check out my website <a href="https://www.michaelflohr.de" target="_blank">www.michaelflohr.de</a>
 
-🌱 My heart project is my <a href="https://eis-mit-stil.netlify.app/" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨
+🌱 A heart project is my <a href="https://eis-mit-stil.netlify.app" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨
+
+⭐ Here you will find a repository of knowledge that I update from time to time, and some nice projects, such as the code of my personal <a href="https://github.com/MatchuPitchu/portfolio" target="_blank">portfolio website</a> and the <a href="https://www.npmjs.com/package/react-timeline-responsive" target="_blank">react-timeline-responsive</a> package.
 
     "TypeScript is wie JavaScript, nur anders."
 
