@@ -3,9 +3,11 @@ I'm a frontend developer with some knowledge about the backend area who started 
 
 👉 Check out my website <a href="https://www.michaelflohr.de" target="_blank">www.michaelflohr.de</a>
 
-🌱 A heart project is my <a href="https://eis-mit-stil.netlify.app" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨
+🌱 A nice side project that accompanied my entry into the development world was the <a href="https://eis-mit-stil.netlify.app" target="_blank">Vegan Ice Cream App "Eis mit Stil"</a> 🍨. The code is freely accessible, but has not been updated in a long time and therefore corresponds to my junior level of knowledge at the time.
 
-⭐ Here you will find a repository of knowledge that I update from time to time, and some nice projects, such as the code of my personal <a href="https://github.com/MatchuPitchu/portfolio" target="_blank">portfolio website</a> and the <a href="https://www.npmjs.com/package/react-timeline-responsive" target="_blank">react-timeline-responsive</a> package.
+⭐ Here you will find a repository of knowledge that I update from time to time, and some nice projects, such as the <a href="https://www.npmjs.com/package/react-timeline-responsive" target="_blank">react-timeline-responsive</a> package.
+
+🥳 <a href="https://github.com/MatchuPitchu/portfolio" target="_blank">My personal website</a>
 
     "TypeScript is wie JavaScript, nur anders."
 
