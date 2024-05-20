@@ -7,8 +7,6 @@ I'm a frontend developer with some knowledge about the backend area who started 
 
 ⭐ Here you will find a repository of knowledge that I update from time to time, and some nice projects, such as the <a href="https://www.npmjs.com/package/react-timeline-responsive" target="_blank">react-timeline-responsive</a> package.
 
-🥳 <a href="https://github.com/MatchuPitchu/portfolio" target="_blank">My personal website</a>
-
     "TypeScript is wie JavaScript, nur anders."
 
 ## Github Stats  
